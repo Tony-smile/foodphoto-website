@@ -68,7 +68,7 @@ nav button:hover {
   transform: scaleX(1.25);
   border-bottom: 2px solid blue;
 }
-  #hh {
+  .hh {
     display: inline-block;
     width: 50px;
     border: 1px solid #000;
