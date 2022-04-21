@@ -68,6 +68,13 @@ nav button:hover {
   transform: scaleX(1.25);
   border-bottom: 2px solid blue;
 }
+  #hh {
+    display: inline-block;
+    width: 50px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
 .header h1 {
   position: relative;
   color: white;
